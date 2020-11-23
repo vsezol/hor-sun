@@ -4,7 +4,7 @@ is_dev = True
 
 input_path = os.path.join(os.getcwd(), 'img', 'input')
 
-output_path = os.path.join(os.getcwd(), 'out')
+output_path = os.path.join(os.getcwd(), 'img', 'out')
 output_path_csv = os.path.join(output_path, 'out.csv')
 
 to_read_imgs_list = [
