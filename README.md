@@ -60,7 +60,10 @@ mkdir input
 mkdir out
 ```
 Поместить изображения в input
-
+Запуск самой программы
+```
+python -m main
+```
 ## Разработчик:
 ФИО: Золотов Всеволод Дмитриевич
 email: vsevolod.zolotov02@mail.ru
