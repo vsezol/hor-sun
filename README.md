@@ -59,7 +59,7 @@ mkdir input
 ```
 mkdir out
 ```
-Поместить изображения в input
+Поместить изображения в input<br/>
 Запуск самой программы
 ```
 python -m main
